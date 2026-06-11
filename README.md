@@ -1,10 +1,8 @@
-# IS2026 Spring - NAME OF PROJECT
+# IS2026 Spring - Board Buddy- Powered by VisualAssistCam
 
-Describe the project.
-Describe what are the contents of each folder - CODE, CAD, Electronics etc
+Board Buddy is an effective solution for visually impaired students. IT battles low vision in classroom settings, enabling students to engage in learning beyond the physical abilities. Essentially, it allows students to see far away objects and texts, like writing on a whiteboard.  
 
-
-## License
+CAD: The .step files of both the casing and the stand.
 
 Licenses
 
